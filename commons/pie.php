@@ -107,7 +107,7 @@
 
    <!-- Bootstrap tooltips -->
    <script type="text/javascript" src="./js/popper.min.js"></script>
-   
+   <script type="text/javascript" src="js/main.js"></script>
   <script>
     // Material Select Initialization
 
