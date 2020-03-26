@@ -18,7 +18,6 @@ include("commons/cabecera.php");
         <section>
 <div class="container-fluid">
   <div class="row">
- 
 	<div class="containerjuli">
 		<div class="imagenj">
 			<img src="img/undraw_by_my_car_ttge.svg">
