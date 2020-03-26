@@ -70,9 +70,9 @@
           <div class="row flex-center pt-5 mt-3 p-2">
             <div class="col-md-12 col-lg-6 text-center text-md-left margins pt-3">
               <div class="white-text">
-                <h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Pagá menos por el seguro de tu vehículo.</h1>
+                <h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Pagá menos por el seguro de tu Moto.</h1>
                 <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
-                <h6 class="wow fadeInLeft" data-wow-delay="0.3s">Hasta 30% menos en el seguro de tu vehículo. Las mismas condiciones y con las mejores compañías.
+                <h6 class="wow fadeInLeft" data-wow-delay="0.3s">Hasta 30% menos en el seguro de tu Moto. Las mismas condiciones y con las mejores compañías.
                 </h6>
                 <br>
                 <a class="btn btn-outline-white btn-rounded font-weight-bold ml-lg-0 wow fadeInLeft"

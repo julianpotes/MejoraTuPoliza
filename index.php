@@ -25,7 +25,7 @@ include("commons/cabecera.php");
 		<div class="login-content">
 			<form action="index.html">
 				<img src="img/undraw_profile_pic_ic5t.svg">
-				<h2 class="title">Mejaramos Yu Poliza</h2>
+				<h2 class="title">Mejaramos Tu Poliza</h2>
            		<div class="input-div one"> 
            		   <div class="jul">
            		   		<i class="fas fa-user"></i>
@@ -66,7 +66,7 @@ include("commons/cabecera.php");
 						</select>
 			  	</div>
 			  
-            	<a href="#">Envianos Whatsap?</a>
+            	<a href="#">Queres Enviarnos un Whatsapp?</a>
             	<input type="submit" class="btnjuli" value="Enviar">
             </form>
         </div>
