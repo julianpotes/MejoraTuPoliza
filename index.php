@@ -3,21 +3,7 @@ include("commons/cabecera.php");
 ?>
   <!--Main content-->
   <main>
-    <!--First container-->
-    <div class="container">
-
-
-    </div>
-    <!--First container-->
-
-    <!--Second container-->
-    <div class="container-fluid mb-3" style="background-color: blue,">
-      <div class="container py-4">
-
-        <!--Section: Download-->
-        <section>
-<div class="container-fluid">
-  <div class="row">
+  <img class="wave" src="img/onda.png">
 	<div class="containerjuli">
 		<div class="imagenj">
 			<img src="img/undraw_by_my_car_ttge.svg">
@@ -25,7 +11,7 @@ include("commons/cabecera.php");
 		<div class="login-content">
 			<form action="index.html">
 				<img src="img/undraw_profile_pic_ic5t.svg">
-				<h2 class="title">Mejaramos Tu Poliza</h2>
+				<h2 class="title">Mejaramos Yu Poliza</h2>
            		<div class="input-div one"> 
            		   <div class="jul">
            		   		<i class="fas fa-user"></i>
@@ -66,25 +52,11 @@ include("commons/cabecera.php");
 						</select>
 			  	</div>
 			  
-            	<a href="#">Queres Enviarnos un Whatsapp?</a>
+            	<a href="#">Envianos Whatsap?</a>
             	<input type="submit" class="btnjuli" value="Enviar">
             </form>
         </div>
     </div>
-  </div>
-</div>
-
-        </section>
-        <!--/Section: Download-->
-
-      </div>
-    </div>
-    <!--Second container-->
-
-   
-
-  
-
   </main>
   <!--Main content-->
 
