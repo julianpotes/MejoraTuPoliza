@@ -2,9 +2,10 @@
 include("commons/cabecera.php");
 ?>
   <!--Main content-->
+  <div class="container-fluid">
   <main>
   <img class="wave" src="img/onda.png">
-	<div class="containerjuli">
+	<div class="containerjuli bg-white">
 		<div class="imagenj">
 			<img src="img/undraw_by_my_car_ttge.svg">
 		</div>
@@ -59,6 +60,8 @@ include("commons/cabecera.php");
     </div>
   </main>
   <!--Main content-->
+  </div>
+  
 
   <?php
 include("commons/pie.php");
