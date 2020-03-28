@@ -386,16 +386,16 @@ a:hover{
 
 .titulo {
 	margin-bottom: 10px;
-	color: rgb(92, 92, 92);
+	color:rgb(159,159,159);
 	font-weight: 400;
-	font-size: 1.6rem;
-
+	font-size: 1.2rem;
+	padding-left: 10px;
 }
 
 .descripcion {
 	font-size: 1rem;
-	color: #434343;
-	padding-left:10px;
+	color: rgb(179, 177, 177);
+	padding-left: 10px;
 	
 }
 
@@ -408,8 +408,7 @@ a:hover{
 	z-index: 100;
 	width: 100%;
 	display: none;
-	
-	
+
 }
 
 .opciones.active {
@@ -440,9 +439,7 @@ a:hover{
 }
 
 .contenido-opcion img {
-	width: 60px;
-	height: 60px;
-	margin-right: 30px;
+
 }
 
 .opciones .contenido-opcion:hover {
@@ -458,6 +455,22 @@ a:hover{
 	.selectbox {
 		width: 100%;
 	}
+
+	.titulo {
+		margin-bottom: 10px;
+		color: rgb(153,153,153);
+		font-weight: 400;
+		font-size: 1.2rem;
+	
+	}
+	
+	.descripcion {
+		font-size: 1rem;
+		color: rgb(165, 164, 164);
+		
+	}
+
+
 }
 
   /*......................FIN SELECTOR PERSONALIZADO............*/

@@ -59,7 +59,6 @@ include("commons/cabecera.php");
 										<a href="#" class="opcion">
 											<div class="contenido-opcion">
 												<div class="textos">
-													<img src="img/prod1.png" alt="">
 													<h1 class="titulo">Productor-1</h1>
 													<p class="descripcion">direccion.</p>
 												</div>
@@ -67,7 +66,6 @@ include("commons/cabecera.php");
 										</a>
 										<a href="#" class="opcion">
 											<div class="contenido-opcion">
-												<img src="img/prod2.png" alt="">
 												<div class="textos">
 												<h1 class="titulo">Productor-2</h1>
 													<p class="descripcion">direccion.</p>
@@ -76,7 +74,6 @@ include("commons/cabecera.php");
 										</a>
 										<a href="#" class="opcion">
 											<div class="contenido-opcion">
-												<img src="img/prod3.png" alt="">
 												<div class="textos">
 												<h1 class="titulo">Productor-3</h1>
 													<p class="descripcion">direccion.</p>
@@ -85,7 +82,6 @@ include("commons/cabecera.php");
 										</a>
 										<a href="#" class="opcion">
 											<div class="contenido-opcion">
-												<img src="img/prod4.png" alt="">
 												<div class="textos">
 												<h1 class="titulo">Productor-4</h1>
 													<p class="descripcion">direccion.</p>
@@ -94,7 +90,6 @@ include("commons/cabecera.php");
 										</a>
 										<a href="#" class="opcion">
 											<div class="contenido-opcion">
-												<img src="img/prod5.png" alt="">
 												<div class="textos">
 												<h1 class="titulo">Productor-5</h1>
 													<p class="descripcion">direccion.</p>
