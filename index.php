@@ -2,9 +2,48 @@
 include("commons/cabecera.php");
 ?>
   <!--Main content-->
+  <div class="container my-5 py-5 z-depth-1">
+
+
+  <!--Section: Content-->
+  <section class="dark-grey-text text-center">
+    
+    <h3 class="font-weight-bold pt-5 pb-4">Te Damos Mas Beneficios</h3>
+     <p  class="font-weight-bold pt-4 pb-4">A todas las polizas les incluimos sin costo
+seguros de salud donde se destacan
+entre otras la cobertura de
+Ambulancias/Emergencias/Urgencias
+Consulta Virtual con medicos 24hs
+Descuentos en farmacias</p>
+    <div class="row mx-3">
+      <div class="col-md-4 px-4 mb-4">
+	  <h3 class="font-weight-bold pt-5 pb-4">Medicos Online 24hs</h3>
+        <div class="view">
+          <img src="./img/undraw_medicine_b1ol.svg" class="img-fluid" alt="smaple image">
+        </div>
+
+      </div>
+     <div class="col-md-4 px-4 mb-4">
+	 <h3 class="font-weight-bold pt-5 pb-4">Ambulancias/Emergencias/Urgencias</h3>
+        <div class="view">
+          <img src="./img/undraw_Security_on_ff2u.svg" class="img-fluid" alt="smaple image">
+        </div>
+
+      </div>
+      <div class="col-md-4 px-4 mb-4">
+	  <h3 class="font-weight-bold pt-5 pb-4">Descuentos en farmacias</h3>
+        <div class="view">
+          <img src="./img/FARMACIA.png" class="img-fluid text-center" alt="smaple image" >
+        </div>
+
+      </div>
+    </div>
+
+  </section>
+  <!--Section: Content-->
+
   <div class="container-fluid mt-4">
-  <main>
-  
+</div>
 	<div class="containerjuli bg-white">
 		<div class="imagenj">
 			<img src="img/undraw_by_my_car_ttge.svg">
