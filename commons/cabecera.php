@@ -77,9 +77,11 @@
                 <br>
                 <a class="btn btn-outline-white btn-rounded font-weight-bold ml-lg-0 wow fadeInLeft"
                   data-wow-delay="0.3s" href="#formPreview">BUSCA EL MEJOR PRECIO</a>
-               
+                  <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeInLeft waves-effect waves-light animated" data-wow-delay="0.3s"
+                   style="visibility: visible; animation-name: fadeInLeft; animation-delay: 0.3s;" data-toggle="modal" data-target="#modalRegisterForm">
+    BAJAR POLIZA COVID-19</a>
               </div>
-            </div>
+            </div> 
 
             <div class="col-md-12 col-lg-6 d-flex wow fadeInRight" data-wow-delay="0.3s">
            

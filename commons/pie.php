@@ -40,8 +40,11 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mb-4 dark-grey-text">
           <h6 class="text-uppercase font-weight-bold"><strong>Mejorá Tu Poliza</strong></h6>
           <hr class="blue mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>Somos Un grupo de Agentes de seguros dedicados a mejorar y ampliar los beneficios que ofrecen las Aseguradoras ddel Pais 
-          Para tengas todo lo que necesitas, al mejor precio del mercado.</p>
+                      <p>SOMOS UN GRUPO DE PRODUCTORES ASESORES
+                          DE SEGUROS AL SERVICIO DE NUESTROS CLIENTES
+                          PARA OPTIMIZAR LAS COBERTURAS QUE NECESITAN
+                          Y AL MEJOR COSTO POSIBLE.
+                      </p>
         </div>
         <!--/.First column-->
 
@@ -107,7 +110,7 @@
 
    <!-- Bootstrap tooltips -->
    <script type="text/javascript" src="./js/popper.min.js"></script>
-   <script type="text/javascript" src="js/main.js"></script>
+   <script type="text/javascript" src="./js/main.js"></script>
   <script>
     // Material Select Initialization
 
@@ -125,15 +128,15 @@
     
 	$('.ir-arriba').click(function(){
 		$('body, html').animate({
-			scrollTop: '0px'
+			scrollTop: '600px'
 		}, 350);
 	});
  
 	$(window).scroll(function(){
-		if( $(this).scrollTop() > 0 ){
-			$('.ir-arriba').slideDown(300);
+		if( $(this).scrollTop() > 550 ){
+			$('.ir-arriba').slideDown(200);
 		} else {
-			$('.ir-arriba').slideUp(300);
+			$('.ir-arriba').slideUp(100);
         }
        
     });
@@ -164,7 +167,7 @@ if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
 });
 
 });
-
+ 
   </script>
 
 </body>

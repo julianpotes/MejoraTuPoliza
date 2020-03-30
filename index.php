@@ -114,19 +114,68 @@ include("commons/cabecera.php");
                                   <input type="file" id="fileInput">
                             </div>
                             <div class="file-path-wrapper">
-                                <input class="file-path validate" style="font-size:.8rem;" type="text" placeholder="Subir">
+                                <input class="file-path validate" style="font-size:.8rem;" type="text" placeholder="PDF, JPG">
                             </div>
                           </div>              
                         </div>  
             	<a href="#">Queres Enviarnos Un Whatsapp?</a>
-            	<input type="submit" class="btnjuli" value="Enviar">
-            </form>
+				<input type="submit" class="btnjuli" value="Enviar">
+			</form>
+			
+          </a>
         </div>
     </div>
   </main>
   <!--Main content-->
   </div>
-  
+  			<!-- VENTANA MODAL-->
+<div class="modal fade" id="modalRegisterForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+		<h4 class="modal-title w-100 font-weight-bold grey-text">Pedido</h4>
+		  </div>
+		  <div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+	  </div>
+      <div class="modal-body mx-3">
+		  <div class="container-fluid">
+		  <div class="row"> 
+		  <p class="pt-2 pb-3 modal-title text-center grey-text">Dadas las medidas adoptadas por el gobierno, tenes derecho a poder bajar
+			costos de polizas vigentes.
+		</p>
+		</div>
+		  </div>
+	  
+        <div class="md-form mb-5">
+          <i class="fas fa-user prefix grey-text"></i>
+          <input type="text" id="orangeForm-name" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-name">Nombre</label>
+        </div>
+        <div class="md-form mb-5">
+          <i class="fas fa-envelope prefix grey-text"></i>
+          <input type="email" id="orangeForm-email" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-email">e-mail</label>
+        </div>
+
+        <div class="md-form mb-4">
+		<i class="fas fa-phone prefix grey-text"></i>
+          <input type="phone" id="orangeForm-pass" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-pass">Telefono</label>
+        </div>
+
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <button class="btn btn-deep-orange">enviar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
   <?php
 include("commons/pie.php");
