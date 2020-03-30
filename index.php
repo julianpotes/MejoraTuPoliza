@@ -24,14 +24,14 @@ Descuentos en farmacias</p>
 
       </div>
      <div class="col-md-4 px-4 mb-4">
-	 <h3 class="font-weight-bold pt-5 pb-4">Ambulancias/Emergencias/Urgencias</h3>
+	 <h3 class="font-weight-bold pt-5 pb-4">Ambulancias Emergencias Urgencias</h3>
         <div class="view">
           <img src="./img/undraw_Security_on_ff2u.svg" class="img-fluid" alt="smaple image">
         </div>
 
       </div>
       <div class="col-md-4 px-4 mb-4">
-	  <h3 class="font-weight-bold pt-5 pb-4">Descuentos en farmacias</h3>
+	  <h3 class="font-weight-bold pt-5 pb-4">Descuentos en Farmacias</h3>
         <div class="view">
           <img src="./img/FARMACIA.png" class="img-fluid text-center" alt="smaple image" >
         </div>
