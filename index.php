@@ -247,12 +247,12 @@ box-shadow: 20px 17px 14px -14px rgba(143,143,143,0.6); color:white;margin: 3px;
 
                 <div class="md-form mb-4">
                     <i class="far fa-calendar-alt prefix grey-text"></i>
-                    <input type="text" id="orangeForm-pass" class="form-control validate" required pattern="[0-9]{4}>
+                    <input type="text" id="orangeForm-pass" class="form-control validate" required pattern="[0-9]{4}">
           <label  data-error=" Formato erroneo" data-success="perfecto" for="orangeForm-pass">Año</label>
                 </div>
                 <div class="md-form mb-4">
                     <i class="fas fa-wallet prefix grey-text"></i>
-                    <input type="text" id="orangeForm-pass" class="form-control validate" required pattern="[0-9]{15}>
+                    <input type="text" id="orangeForm-pass" class="form-control validate" required pattern="[0-9]{15}">
           <label  data-error=" Solo numeros" data-success="perfecto" for="orangeForm-pass">Monto Asegurado</label>
                 </div>
             </div>
